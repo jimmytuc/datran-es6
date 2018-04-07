@@ -1,9 +1,12 @@
 {
   "name": "datran-es6",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My custom datran module rewrite in ES6 babel npm package boilerplate",
   "license": "MIT",
-  "repository": "datran-es6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmytuc/datran-es6"
+  },
   "main": "dist/index.js",
   "author": {
     "name": "Phuc Nguyen",
