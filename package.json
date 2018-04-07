@@ -20,7 +20,7 @@
     "dist"
   ],
   "scripts": {
-    "test": "mocha --compilers js:babel-core/register test -w --recursive",
+    "test": "mocha --compilers js:babel-core/register --recursive",
     "coverage": "npm test -- --coverage",
     "postcoverage": "opn coverage/lcov-report/index.html",
     "lint": "eslint src test",
