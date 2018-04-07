@@ -1,10 +1,6 @@
-# nod
-
-[![NPM version](https://img.shields.io/npm/v/generator-nod.svg?style=flat-square)](https://npmjs.org/package/ggenerator-nod)
-[![Build Status](https://img.shields.io/travis/diegohaz/nod/master.svg?style=flat-square)](https://travis-ci.org/diegohaz/nod) [![Coverage Status](https://img.shields.io/codecov/c/github/diegohaz/nod/master.svg?style=flat-square)](https://codecov.io/gh/diegohaz/nod/branch/master)
+[![Build Status](https://travis-ci.org/jimmytuc/datran.svg?branch=master)](https://travis-ci.org/jimmytuc/datran)
 
 Thanks to NodeJS module generator/boilerplate.
-
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3068563/21958520/77e4f45e-da97-11e6-9685-fe380a9cce3d.gif"></p>
 
 ## Features
