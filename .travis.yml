@@ -3,7 +3,7 @@ node_js:
   - "6"
 script:
   - npm run build
-  - npm test -- --coverage
+  - npm test
 branches:
   only:
     - master
