@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jimmytuc/datran.svg?branch=master)](https://travis-ci.org/jimmytuc/datran)
+[![Build Status](https://travis-ci.org/jimmytuc/datran-es6.svg?branch=master)](https://travis-ci.org/jimmytuc/datran-es6)
 
 Thanks to NodeJS module generator/boilerplate.
 
