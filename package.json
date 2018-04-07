@@ -1,6 +1,6 @@
 {
   "name": "datran-es6",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "My custom datran module rewrite in ES6 babel npm package boilerplate",
   "license": "MIT",
   "repository": {
