@@ -43,7 +43,11 @@
     "testEnvironment": "node"
   },
   "keywords": [
-    "generator-nod"
+    "datran",
+    "es6",
+    "es7",
+    "async/await",
+    "mocha"
   ],
   "dependencies": {},
   "devDependencies": {

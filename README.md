@@ -41,7 +41,7 @@ $ npm run major # bump major version and publish to npm e.g. 1.0.0
 
 ## Change logs
 
-1. Test method: Switch from `jest` to `mochae`, fixed async/await to run test in mocha.
+1.  Test method: Switch from `jest` to `mochae`, fixed async/await to run test in mocha.
 
 ## API
 
