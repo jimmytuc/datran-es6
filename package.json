@@ -52,7 +52,9 @@
     "async/await",
     "mocha"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
